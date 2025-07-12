@@ -14,7 +14,7 @@ color_sample = {
 }
 
 # Telegram Bot Token (replace with your own)
-TOKEN = "7757146225:AAEMvEnsRItUvqPHtLX_xsV269aY3ZlZZQw"    
+TOKEN = "your token id"    
 
 # Object Detection Function
 def object_detection_image(image):
